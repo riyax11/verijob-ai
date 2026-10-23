@@ -1,0 +1,4 @@
+model,precision_fake,recall_fake,f1_fake,true_positives,false_negatives,false_positives
+Random Forest,0.9903,0.5896,0.7391,102,71,1
+Logistic Regression,0.5858,0.9075,0.712,157,16,111
+Naive Bayes,0.764,0.3931,0.5191,68,105,21
